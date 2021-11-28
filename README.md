@@ -5,6 +5,6 @@ Pyhton Project
 <p>
 The project involves an automated video player where the user is required to set an alarm then the system will automatically open the preferred browser and play a random video from the list provided
   
- Libraries used: Pywhatkit
+ Libraries used: Pywhatkit, tkinter, datetime
 </p>
 
